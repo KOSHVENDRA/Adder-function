@@ -1,6 +1,4 @@
 s='mumbai'
-k=[]
-for i in s:
-    l.append(ord(i)):
-print(k)
+k=[ord(i) for i in s]
+print(l)
 
