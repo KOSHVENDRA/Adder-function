@@ -1,4 +1,4 @@
 s='mumbai'
-k=[ord(i) for i in s]
-print(l)
+k=list[map(ord,s)]
+print(k)
 
