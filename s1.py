@@ -1,3 +1,4 @@
 s='mumbai'
 for i in s:
-    print(i,'=',ord(i))
+    sum=sum+ord(i)
+print(sum)
