@@ -1,4 +1,5 @@
 s='mumbai'
+k=[]
 for i in s:
-    sum=sum+ord(i)
-print(sum)
+    l.append(ord(i)):
+print(k)    
